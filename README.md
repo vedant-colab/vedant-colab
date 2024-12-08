@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Vedant!
 
-<!--
-**vedant-colab/vedant-colab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Software Developer | Tech Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+## 💻 About Me
+- Passionate about building scalable and efficient software solutions.
+- Experienced in **TypeScript**, **Python**, **Django**, **Node.js**, and **Go**.
+- Enthusiastic about **Spring Boot**, **FastAPI**, and exploring **microservice architecture**.
+- Strong advocate of clean code, system design, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- **Multi-user Real-Time Code Editor** with TypeScript, React, WebSockets, and Docker.
+- **Blog Platform** with FastAPI, PostgreSQL, and SQLAlchemy.
+
+## 🎯 Goals
+- Become good at what I do and enjoy it deeply.
+- Deepen expertise in **Java**, **Spring Boot**, and system design.
+
+## 📚 Learning Focus
+- Data Structures and Algorithms.
+- Docker, Scalability, and Best Practices.
+- Spring Boot, Gin, FAST API and DevOps. 
+
+🔗 Let's Connect and Collaborate!
