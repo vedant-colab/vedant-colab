@@ -14,7 +14,7 @@
 
 ## 🎯 Goals
 - Become good at what I do and enjoy it deeply.
-- Deepen expertise in **Java**, **Spring Boot**, and system design.
+- Deepen expertise in **Java**, **Spring Boot**, and **system design**.
 
 ## 📚 Learning Focus
 - Data Structures and Algorithms.
