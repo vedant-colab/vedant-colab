@@ -10,7 +10,7 @@
 
 ## 🚀 Current Projects
 - **Multi-user Real-Time Code Editor** with TypeScript, React, WebSockets, and Docker.
-- **Blog Platform** with FastAPI, PostgreSQL, and SQLAlchemy.
+- **Blog Platform** with FastAPI, PostgreSQL, and Tortoise ORM.
 
 ## 🎯 Goals
 - Become good at what I do and enjoy it deeply.
