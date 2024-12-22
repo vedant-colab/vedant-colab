@@ -14,7 +14,7 @@
 
 ## 🚀 Current Projects
 - **Multi-user Real-Time Code Editor** with TypeScript, React, WebSockets, and Docker.
-- **Blog Platform** with FastAPI, PostgreSQL, and Tortoise ORM.
+- **Blog Platform** with FastAPI, PostgreSQL, and Tortoise ORM. ✅
 
 ---
 
