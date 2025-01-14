@@ -47,10 +47,10 @@ const vedant = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="your-repo-link">
+  <a href="[your-repo-link](https://github.com/vedant-colab/RecipeRama)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedant-colab&repo=real-time-code-editor&theme=tokyonight" />
   </a>
-  <a href="your-repo-link">
+  <a href="[your-repo-link](https://github.com/vedant-colab/ShawrtyURL)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedant-colab&repo=nexusmeet&theme=tokyonight" />
   </a>
 </div>
