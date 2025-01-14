@@ -47,8 +47,8 @@
             </div>
         </div>
 
-        <!-- Backend -->
-        <div class="category">
+    <!-- Backend -->
+<div class="category">
             <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Backend & APIs</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                 <span style="background: linear-gradient(45deg, #092E20, #0C4B33); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Django</span>
@@ -60,7 +60,7 @@
         </div>
 
         <!-- Frontend -->
-        <div class="category">
+<div class="category">
             <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Frontend</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                 <span style="background: linear-gradient(45deg, #61DAFB, #4FA8D3); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">React</span>
@@ -70,7 +70,7 @@
         </div>
 
         <!-- Databases -->
-        <div class="category">
+<div class="category">
             <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Databases</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                 <span style="background: linear-gradient(45deg, #336791, #2A567A); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">PostgreSQL</span>
@@ -80,7 +80,7 @@
         </div>
 
         <!-- Tools & Platform -->
-        <div class="category">
+<div class="category">
             <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Tools & Platforms</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                 <span style="background: linear-gradient(45deg, #2496ED, #1C7AC6); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Docker</span>
