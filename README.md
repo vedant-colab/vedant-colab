@@ -33,8 +33,7 @@
 
 <div style="background-color: #0d1117; color: white; padding: 2rem; border-radius: 10px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
     <h2 style="text-align: center; color: #58a6ff; margin-bottom: 2rem; font-size: 24px;">🛠️ Tech Stack</h2>
-    
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
         <!-- Languages -->
         <div class="category">
             <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Languages</h3>
@@ -46,9 +45,8 @@
                 <span style="background: linear-gradient(45deg, #007ACC, #005C99); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">TypeScript</span>
             </div>
         </div>
-
-    <!-- Backend -->
-<div class="category">
+ <!-- Backend -->
+        <div class="category">
             <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Backend & APIs</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                 <span style="background: linear-gradient(45deg, #092E20, #0C4B33); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Django</span>
@@ -58,9 +56,8 @@
                 <span style="background: linear-gradient(45deg, #00ADD8, #0077B5); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Go Fiber</span>
             </div>
         </div>
-
         <!-- Frontend -->
-<div class="category">
+        <div class="category">
             <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Frontend</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                 <span style="background: linear-gradient(45deg, #61DAFB, #4FA8D3); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">React</span>
@@ -68,9 +65,8 @@
                 <span style="background: linear-gradient(45deg, #1572B6, #1163A3); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">CSS3</span>
             </div>
         </div>
-
         <!-- Databases -->
-<div class="category">
+        <div class="category">
             <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Databases</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                 <span style="background: linear-gradient(45deg, #336791, #2A567A); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">PostgreSQL</span>
@@ -78,9 +74,8 @@
                 <span style="background: linear-gradient(45deg, #4479A1, #386C8A); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">MySQL</span>
             </div>
         </div>
-
         <!-- Tools & Platform -->
-<div class="category">
+        <div class="category">
             <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Tools & Platforms</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                 <span style="background: linear-gradient(45deg, #2496ED, #1C7AC6); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Docker</span>
