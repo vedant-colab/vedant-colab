@@ -19,50 +19,48 @@ I'm a passionate software developer focused on building scalable and efficient s
 
 ## 🛠️ Tech Stack
 
-<div style="background-color: #0d1117; color: white; padding: 2rem; border-radius: 10px;">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
-        <div>
-            <h3 style="color: #58a6ff; margin-bottom: 1rem;">Languages</h3>
-            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-                <span style="background: linear-gradient(45deg, #00ADD8, #0077B5); padding: 0.5rem 1rem; border-radius: 20px;">Go</span>
-                <span style="background: linear-gradient(45deg, #3776AB, #2B5B84); padding: 0.5rem 1rem; border-radius: 20px;">Python</span>
-                <span style="background: linear-gradient(45deg, #007ACC, #005C99); padding: 0.5rem 1rem; border-radius: 20px;">TypeScript</span>
-                <span style="background: linear-gradient(45deg, #007396, #00557F); padding: 0.5rem 1rem; border-radius: 20px;">Java</span>
-            </div>
-        </div>
- <div>
-            <h3 style="color: #58a6ff; margin-bottom: 1rem;">Backend & APIs</h3>
-            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-                <span style="background: linear-gradient(45deg, #00ADD8, #0077B5); padding: 0.5rem 1rem; border-radius: 20px;">Go Fiber</span>
-                <span style="background: linear-gradient(45deg, #009688, #00796B); padding: 0.5rem 1rem; border-radius: 20px;">FastAPI</span>
-                <span style="background: linear-gradient(45deg, #092E20, #0C4B33); padding: 0.5rem 1rem; border-radius: 20px;">Django</span>
-                <span style="background: linear-gradient(45deg, #339933, #2D862D); padding: 0.5rem 1rem; border-radius: 20px;">Node.js</span>
-            </div>
-        </div>
- <div>
-            <h3 style="color: #58a6ff; margin-bottom: 1rem;">Frontend</h3>
-            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-                <span style="background: linear-gradient(45deg, #61DAFB, #4FA8D3); padding: 0.5rem 1rem; border-radius: 20px;">React</span>
-                <span style="background: linear-gradient(45deg, #E34F26, #C43E1C); padding: 0.5rem 1rem; border-radius: 20px;">HTML5</span>
-                <span style="background: linear-gradient(45deg, #1572B6, #1163A3); padding: 0.5rem 1rem; border-radius: 20px;">CSS3</span>
-            </div>
-        </div>
-<div>
-           <h3 style="color: #58a6ff; margin-bottom: 1rem;">Databases</h3>
-            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-                <span style="background: linear-gradient(45deg, #336791, #2A567A); padding: 0.5rem 1rem; border-radius: 20px;">PostgreSQL</span>
-                <span style="background: linear-gradient(45deg, #47A248, #3D8B3D); padding: 0.5rem 1rem; border-radius: 20px;">MongoDB</span>
-                <span style="background: linear-gradient(45deg, #4479A1, #386C8A); padding: 0.5rem 1rem; border-radius: 20px;">MySQL</span>
-            </div>
-        </div>
-<div>
-  <h3 style="color: #58a6ff; margin-bottom: 1rem;">Tools & Platforms</h3>
-            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-                <span style="background: linear-gradient(45deg, #2496ED, #1C7AC6); padding: 0.5rem 1rem; border-radius: 20px;">Docker</span>
-                <span style="background: linear-gradient(45deg, #231F20, #3B3B3B); padding: 0.5rem 1rem; border-radius: 20px;">Apache Kafka</span>
-            </div>
-        </div>
-    </div>
+<div align="center">
+
+### 💻 Languages
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🔙 Backend & APIs
+![Go Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 📊 Data & Analytics
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
 </div>
 
 ## 🚀 Featured Projects
