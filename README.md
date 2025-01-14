@@ -21,7 +21,6 @@ I'm a passionate software developer focused on building scalable and efficient s
 
 <div style="background-color: #0d1117; color: white; padding: 2rem; border-radius: 10px;">
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
-        <!-- Languages -->
         <div>
             <h3 style="color: #58a6ff; margin-bottom: 1rem;">Languages</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
@@ -31,9 +30,7 @@ I'm a passionate software developer focused on building scalable and efficient s
                 <span style="background: linear-gradient(45deg, #007396, #00557F); padding: 0.5rem 1rem; border-radius: 20px;">Java</span>
             </div>
         </div>
-
-        <!-- Backend -->
-        <div>
+ <div>
             <h3 style="color: #58a6ff; margin-bottom: 1rem;">Backend & APIs</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                 <span style="background: linear-gradient(45deg, #00ADD8, #0077B5); padding: 0.5rem 1rem; border-radius: 20px;">Go Fiber</span>
@@ -42,9 +39,7 @@ I'm a passionate software developer focused on building scalable and efficient s
                 <span style="background: linear-gradient(45deg, #339933, #2D862D); padding: 0.5rem 1rem; border-radius: 20px;">Node.js</span>
             </div>
         </div>
-
-        <!-- Frontend -->
-        <div>
+ <div>
             <h3 style="color: #58a6ff; margin-bottom: 1rem;">Frontend</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                 <span style="background: linear-gradient(45deg, #61DAFB, #4FA8D3); padding: 0.5rem 1rem; border-radius: 20px;">React</span>
@@ -52,20 +47,16 @@ I'm a passionate software developer focused on building scalable and efficient s
                 <span style="background: linear-gradient(45deg, #1572B6, #1163A3); padding: 0.5rem 1rem; border-radius: 20px;">CSS3</span>
             </div>
         </div>
-
-        <!-- Databases -->
-        <div>
-            <h3 style="color: #58a6ff; margin-bottom: 1rem;">Databases</h3>
+<div>
+           <h3 style="color: #58a6ff; margin-bottom: 1rem;">Databases</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                 <span style="background: linear-gradient(45deg, #336791, #2A567A); padding: 0.5rem 1rem; border-radius: 20px;">PostgreSQL</span>
                 <span style="background: linear-gradient(45deg, #47A248, #3D8B3D); padding: 0.5rem 1rem; border-radius: 20px;">MongoDB</span>
                 <span style="background: linear-gradient(45deg, #4479A1, #386C8A); padding: 0.5rem 1rem; border-radius: 20px;">MySQL</span>
             </div>
         </div>
-
-        <!-- Tools & Platform -->
-        <div>
-            <h3 style="color: #58a6ff; margin-bottom: 1rem;">Tools & Platforms</h3>
+<div>
+  <h3 style="color: #58a6ff; margin-bottom: 1rem;">Tools & Platforms</h3>
             <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
                 <span style="background: linear-gradient(45deg, #2496ED, #1C7AC6); padding: 0.5rem 1rem; border-radius: 20px;">Docker</span>
                 <span style="background: linear-gradient(45deg, #231F20, #3B3B3B); padding: 0.5rem 1rem; border-radius: 20px;">Apache Kafka</span>
@@ -109,5 +100,5 @@ A modern meeting platform built with Go, TypeScript, and React
 
 I'm always interested in collaborating on exciting projects or discussing tech! Feel free to reach out:
 
-- 💼 [LinkedIn][(your-linkedin-url](https://www.linkedin.com/in/vedant-tiwari-358773202/))
+- 💼 [LinkedIn][((https://www.linkedin.com/in/vedant-tiwari-358773202/]))
 - ✉️ [Email](mailto:vedanttiwari641@gmail.com)
