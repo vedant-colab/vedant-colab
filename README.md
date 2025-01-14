@@ -1,102 +1,121 @@
 <div align="center">
-
+  
 # Hello World! I'm Vedant 👋
 
-### Software Developer | Tech Enthusiast | Problem Solver
+<p align="center">
+  <a href="linkedin.com/in/vedant-tiwari-358773202/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:vedanttiwari641@gmail.com">
+    <img src="https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/vedant-tiwari-358773202/))
+### `$ whoami`
+Software Developer | Tech Enthusiast | Problem Solver
 
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer focused on building scalable and efficient solutions. With a strong foundation in both frontend and backend technologies, I enjoy tackling complex problems and creating robust applications.
-
-- 🔭 Currently working on **Multi-user Real-Time Code Editor** and **NexusMeet**
-- 🌱 Learning advanced **System Design**, **Spring Boot**, and **DevOps** practices
-- 💡 Always excited to collaborate on innovative projects
-- 🎯 Goal: To become exceptional at what I do while enjoying the journey
+```typescript
+const vedant = {
+    pronouns: "he/him",
+    location: "India",
+    code: ["Go", "TypeScript", "Python", "Java"],
+    currentFocus: "Building scalable distributed systems",
+    currentLearning: ["System Design", "Spring Boot", "DevOps"],
+    funFact: "I love turning coffee into code! ☕"
+};
+```
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-### 💻 Languages
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🔙 Backend & APIs
-![Go Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ Databases
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 📊 Data & Analytics
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
+  <h3>Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=go,ts,python,java,javascript" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,fastapi,gofiber" />
+  
+  <h3>Database & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka" />
+  
+  <h3>Others</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </div>
 
 ## 🚀 Featured Projects
 
-### Multi-user Real-Time Code Editor
-A collaborative coding platform built with TypeScript, React, and WebSocket
-- Real-time code synchronization across multiple users
-- Built with TypeScript and React for robust frontend
-- WebSocket implementation for real-time updates
-- Containerized with Docker for easy deployment
+<div align="center">
+  <a href="your-repo-link">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedant-colab&repo=real-time-code-editor&theme=tokyonight" />
+  </a>
+  <a href="your-repo-link">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedant-colab&repo=nexusmeet&theme=tokyonight" />
+  </a>
+</div>
 
-### NexusMeet
-A modern meeting platform built with Go, TypeScript, and React
-- Backend powered by Go Fiber and PostgreSQL
-- Responsive React frontend with TypeScript
-- Real-time communication features
-- Scalable architecture design
+### 💻 Real-Time Code Editor
+A collaborative coding platform enabling multiple users to code together in real-time
+- 🔄 Real-time synchronization using WebSocket
+- 🎨 Clean, intuitive UI built with React & TypeScript
+- 🐳 Containerized with Docker
+- 🔒 Secure user authentication
+- 📝 Multiple language support
 
-## 📈 GitHub Stats
+### 🎯 NexusMeet
+Modern video conferencing platform built with cutting-edge technologies
+- ⚡ Backend powered by Go Fiber
+- 🎨 Responsive React frontend
+- 🗄️ PostgreSQL for data persistence
+- 📡 Real-time communication
+- 🔄 WebRTC integration
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant-colab&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-colab&layout=compact&theme=radical" alt="Top Languages" width="48%">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedant-colab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-colab&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 📚 Current Learning Focus
 
-- Advanced Data Structures and Algorithms
-- System Design and Scalability
-- Spring Boot and Java ecosystem
-- DevOps practices and tools
-- Microservices Architecture
+```mermaid
+mindmap
+  root((Learning Path))
+    System Design
+      Scalability
+      Distributed Systems
+      Microservices
+    Spring Boot
+      Core
+      Security
+      Cloud
+    DevOps
+      Docker
+      Kubernetes
+      CI/CD
+```
+
+## 🎯 Goals for 2024
+
+- 🌟 Master distributed systems design
+- 📚 Contribute more to open source
+- 💡 Build scalable microservices
+- 📖 Write technical blogs
+- 🚀 Launch personal projects
 
 ## 🤝 Let's Connect!
 
-I'm always interested in collaborating on exciting projects or discussing tech! Feel free to reach out:
+<div align="center">
+  
+Feel free to connect with me for collaboration, discussion, or just a friendly chat about tech!
 
-- 💼 [LinkedIn][((https://www.linkedin.com/in/vedant-tiwari-358773202/]))
-- ✉️ [Email](mailto:vedanttiwari641@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/vedant-tiwari-358773202/)
+
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vedant-colab&color=blueviolet&style=for-the-badge" alt="profile views" />
+</div>
