@@ -44,6 +44,7 @@ const vedant = {
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </div>
 
+<!--
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -54,6 +55,7 @@ const vedant = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vedant-colab&repo=nexusmeet&theme=tokyonight" />
   </a>
 </div>
+-->
 
 ### 💻 Real-Time Code Editor
 A collaborative coding platform enabling multiple users to code together in real-time
