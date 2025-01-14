@@ -31,34 +31,63 @@
 
 ---
 
-## 🛠️ Technologies I Know
-<div align="center">
+<div style="background-color: #0d1117; color: white; padding: 2rem; border-radius: 10px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+    <h2 style="text-align: center; color: #58a6ff; margin-bottom: 2rem; font-size: 24px;">🛠️ Tech Stack</h2>
+    
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem;">
+        <!-- Languages -->
+        <div class="category">
+            <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Languages</h3>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                <span style="background: linear-gradient(45deg, #00ADD8, #0077B5); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Go</span>
+                <span style="background: linear-gradient(45deg, #3776AB, #2B5B84); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Python</span>
+                <span style="background: linear-gradient(45deg, #007396, #00557F); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Java</span>
+                <span style="background: linear-gradient(45deg, #F7DF1E, #C9B70E); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px; color: black;">JavaScript</span>
+                <span style="background: linear-gradient(45deg, #007ACC, #005C99); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">TypeScript</span>
+            </div>
+        </div>
 
-### Languages:
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+        <!-- Backend -->
+        <div class="category">
+            <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Backend & APIs</h3>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                <span style="background: linear-gradient(45deg, #092E20, #0C4B33); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Django</span>
+                <span style="background: linear-gradient(45deg, #009688, #00796B); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">FastAPI</span>
+                <span style="background: linear-gradient(45deg, #000000, #333333); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Flask</span>
+                <span style="background: linear-gradient(45deg, #339933, #2D862D); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Node.js</span>
+                <span style="background: linear-gradient(45deg, #00ADD8, #0077B5); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Go Fiber</span>
+            </div>
+        </div>
 
-### Databases:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+        <!-- Frontend -->
+        <div class="category">
+            <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Frontend</h3>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                <span style="background: linear-gradient(45deg, #61DAFB, #4FA8D3); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">React</span>
+                <span style="background: linear-gradient(45deg, #E34F26, #C43E1C); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">HTML5</span>
+                <span style="background: linear-gradient(45deg, #1572B6, #1163A3); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">CSS3</span>
+            </div>
+        </div>
 
-### Frameworks and Tools:
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+        <!-- Databases -->
+        <div class="category">
+            <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Databases</h3>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                <span style="background: linear-gradient(45deg, #336791, #2A567A); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">PostgreSQL</span>
+                <span style="background: linear-gradient(45deg, #47A248, #3D8B3D); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">MongoDB</span>
+                <span style="background: linear-gradient(45deg, #4479A1, #386C8A); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">MySQL</span>
+            </div>
+        </div>
 
-### Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+        <!-- Tools & Platform -->
+        <div class="category">
+            <h3 style="color: #58a6ff; font-size: 18px; margin-bottom: 1rem;">Tools & Platforms</h3>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                <span style="background: linear-gradient(45deg, #2496ED, #1C7AC6); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Docker</span>
+                <span style="background: linear-gradient(45deg, #231F20, #3B3B3B); padding: 0.5rem 1rem; border-radius: 20px; font-size: 14px;">Apache Kafka</span>
+            </div>
+        </div>
+    </div>
 </div>
 
 ---
