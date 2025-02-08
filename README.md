@@ -99,7 +99,7 @@ mindmap
       CI/CD
 ```
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 
 - 🌟 Master distributed systems design
 - 📚 Contribute more to open source
